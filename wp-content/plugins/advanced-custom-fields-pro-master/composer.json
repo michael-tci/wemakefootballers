@@ -1,0 +1,13 @@
+{
+  "name": "links-components/advanced-custom-fields-pro",
+  "description": "Fork of Advanced Custom Fields Pro repo for use by Composer.",
+  "type": "wordpress-plugin",
+  "license": "GPL-3.0",
+  "minimum-stability": "dev",
+  "require": {
+    "composer/installers": "~1.0.12"
+  },
+  "extra": {
+    "installer-name": "advanced-custom-fields-pro"
+  }
+}

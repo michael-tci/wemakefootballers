@@ -1,0 +1,975 @@
+@media only screen and (max-width: 960px) and (min-width: 481px), (max-device-width: 960px) and (min-device-width: 481px){ 
+.jsn-bootstrap3 .row{ margin-left: -10px;  margin-right: -10px;} 
+}
+
+@media screen and (min-width: 992px)
+{
+	.container{padding-left: 0; padding-right: 0}
+}
+@media screen and (max-width: 992px)
+{
+	.container{padding-left: 10px; padding-right: 10px}
+}
+
+@media screen and (max-width: 1600px)
+{
+	.aboutmainpagecustome.skrollable-between:after{ left: 41.8%; }
+}
+
+
+@media screen and (max-width: 1500px)
+{
+	.aboutmainpagecustome_parts-content p{ line-height: 1.4;font-size: 16px !important;  }
+}
+
+
+@media screen and (max-width:1400px)
+{
+	/*.logo-web{width: 230px; height: 80px;}
+	.logo-web img{max-width: 80%;}
+	.webmenu-icon{height: 80px; width: 79px;background-size: 30px;}*/
+	/*.existing-suctomers{margin-right: 100px;}
+	.search-sectop{margin-left: 240px;}*/
+	/*.header-custom{padding: 0 20px;}	*/
+	.header-custom header .col-md-6{width: 65%;}
+	.header-custom header .col-md-6:nth-of-type(2n){width: 35%;}
+	h3.hedline-txt{font-size: 25px;}
+	.weekly-training-fullsec-content div{font-size: 26px;}
+	.holiday-camp-full .weekly-training-fullsec-content div{font-size: 28px; }
+	.social-footer {padding-right: 0;}
+	.banner-content-full h3{font-size: 45px;}
+	.banner-content-full{height: 500px;}
+	.academic-location-name{font-size: 40px;}
+	.desc-txt{font-size: 19px;}
+
+	#responsive-menu-container{display: none !important; opacity: 0 !important; visibility: hidden !important;}
+	#responsive-menu-wrapper{display: none !important; opacity: 0 !important; visibility: hidden !important;}
+	.logo-web{max-width: 180px;}
+	.gsstheme_setting_search{padding-top: 12px;}
+	.webmenu-icon{height: 47px;}
+	.web-menu-full{margin-top: 0;}
+	.existing-suctomers{padding-top: 16px;}
+
+	.combination-top h2{ font-size: 31px; }
+	.combination-top h4{ font-size: 20px; }
+	.contentoverlaythis.rightset{ padding-top: 30px; padding-bottom: 30px; }
+	.contentoverlaythis{ padding: 40px 40px; }
+	.contentoverlaythis.rightset div{ font-size: 25px; }
+	.col-for-element-icon{ width: 90px; height: 90px; }
+	.detail-left h2.blogposttitle{ font-size: 30px; }
+	.wahywmf-mmenu ul li a span{ font-size: 13px; }
+	.contentoverlaythis{ font-size: 16px; }
+	.contentoverlaythis.rightset div{ font-size: 25px; }
+	.section-twocol-col{ height: 500px; }
+	.section-twocol-col-imagebx img{ max-height: 500px; }
+	.wahywmf-mmenu ul li a{ padding: 10px 3px; }
+	.footballer-policies-img{ height: 250px; }
+	.footballer-policies-content h3{ font-size: 23px; }
+	.heaerprttp p{ font-size: 19px; } 
+	body h2 {font-size: 26px;}
+	.iconof-pgtitle img{ max-height: 70px; }
+	.section-bckground-contet-middle{ padding: 25px; font-size: 16px; }
+	.hdlsidicovery{ font-size: 18px; }
+	.contentoverlaythis{ padding: 30px; }
+	.contentoverlaythis.rightset{ padding-top: 30px;padding-bottom: 30px; }
+	.section-all-row{ padding: 30px 0; }
+	.ttle-upcoming-col{     font-size: 22px; }
+	.upcoming-collishow ul li{ font-size: 17px; }
+	.section-bckground-contet{ font-size: 17px; }
+	.section-bckground-boldtext{ font-size: 30px; }
+	.ttsetshs{ font-size: 22px; }
+	.bgpartcount-section-text p{ font-size: 17px; }
+	.bgpartcount-section-text .text-center{ padding: 20px; }
+	.section-hedline-tp{ font-size: 30px; }
+	.section-playing-style-text{ font-size: 17px; }
+	.hedlinssdad{ font-size: 20px; }
+	.playingstyle-action-title{ font-size: 27px; }
+	.bgpartcount-section-all-cell .container span.subsnnsn{ font-size: 22px; }
+	.ourgoals-text{ font-size: 18px; }
+	.bgpartcount-section-all-table{ height: 280px; }
+	.bgpartcount-section-text p{ font-size: 17px; }
+
+	.aboutusfullpaheto-logo{ width: 70px;height: 70px; padding: 30px; }
+	.aboutmainpagecustome_parts-content{ padding: 25px; }
+	.aboutmainpagecustome_parts-content h2{ font-size: 18px; margin-top: 0 }
+	.pathfullcol-columninsetssinset{ padding: 20px 50px; }
+	.pathfullcol-column-in{  }
+	.pathfullcolcontent h3{ margin-top: 0 }
+	.pathfullcol-column-in-image{ height: 170px; }
+	.pathfullcolcontent p{ line-height: 1.3; font-size: 15px; }
+	.discover-more-inner-cross{ height: 60px !important; }
+	.discover-more-inner-cross img{ max-height: 100%; }
+	.discover-more-inner h4{ font-size: 18px; }
+	.discover-more-inner {margin: 0px 0 !important;}
+	.pathfullcolcontent h3{ font-size: 17px; }
+	
+	.aboutmainpagecustome_parts-image{ height: 270px; }
+	.aboutmainpagecustome_parts-content p{ line-height: 1.4;font-size: 15px !important; }
+	.aboutmainpagecustome_parts{ width: 80%; }
+	.aboutmainpagecustome .skrollable-after:after{ bottom: -20%; }
+	.pathfullcolcontent h4{ font-size: 16px; }
+	.pathfullcol-columninsetssinset{ margin-top: 5%; }
+	.ourcoachespart_making .ourcoaches_making h2{ font-size: 22px; }
+	.ourcoachespart_making:before{ bottom: 65%; }
+	.ourcoachespart_making .ourcoaches_making p{ max-width: 750px; }
+	.pathtphed, .testimonialhedlins{ font-size: 22px; }
+	.childrenplaterimg{ max-width: 250px; height: 250px; }
+	.pathtphedbottomtext p{ font-size: 16px; }
+	.pathwaytwocolimg{ width: 210px; height: 210px }
+	.about-revolver-right, .revolver-name h4, .joinwemakepathway p{ font-size: 16px; }
+	.contentoverlaythis{ width: 100%; padding: 0 40px !important; margin-left: 0 !important; margin-right: 0 !important }
+	.largeparagh p{ font-size: 18px; }
+	.upcomingtaleidsection_show-col{ padding: 10px; }
+	.upcomingtaleidsection_show-img{ height: 210px; }
+	.ttle-upcoming-col{ font-size: 20px; }
+	.upcoming-collishow{ padding-top: 15px; }
+	.col-for-element-iner p{ font-size: 16px; line-height: 1.5; }
+	.pachage-hedline{ font-size: 25px; }
+	.pachage-subhedline{ font-size: 19px; }
+	.col-section-twocol p{ font-size: 15px; }
+	.col-section-twocol{ width: 100%; padding: 20px 30px !important; }
+	.contentoverlaythis.contentoverlaythis-bl{ width: 400px;padding: 40px !important;margin-left: -100px !important; }
+	.imagecol-secc div{ max-width: 320px; }
+	.imagecol-text p{ font-size: 15px;line-height: 1.7; }
+	.imagecol-text div{ font-size: 25px; }
+	.desc-txt-sm.desc-txt {font-size: 16px;line-height: 1.5;}
+	.author-commentcarousel-right{ font-size: 16px; }
+	.coach-about-nm span{ font-size: 15px; }
+	.coach-about-nm div{ font-size: 19px; }
+	.footerabove-section h3{ font-size: 22px; }
+	.phnoshow{ font-size: 32px; }
+	.slide-txt{ width: 80%; }
+	.holiday-camps-txt-sldier .carousel-control.left{ left: 15px; }
+	.holiday-camps-txt-sldier .carousel-control.right{ right: 15px; }
+	.camps-slider-left-txt{ padding: 90px 20px; }
+	.small-img {width: 70px;}
+	.camp-location a{ font-size: 16px; }
+	.pathwaycolnamethis{ font-size: 22px; }
+	.franchise-section h1{ font-size: 25px !important; }
+	.franchise-section p{ font-size: 16px !important; margin-bottom: 10px !important; }
+	.slidersectionjoinus_content h4{ font-size: 22px; }
+	.slidersectionjoinus_content p{ font-size: 16px !important; }
+	.slidersectionjoinus-left{ max-height: 580px; }
+	.slidersectionjoinus-right{/* top: 50px;*/ right: 30px; width: 45%; }
+	.page-template-our-methods .hdlsidicovery{ font-size: 22px; }
+	.aboutmainpagecustome.skrollable-between:after{ left: 40.8%; }
+	.contentoverlaythis ul li:before{ width: 7px;height: 7px; }
+	.ourcoachesgreat_yet{ font-size: 22px; }
+	#myModal_popup h4{ font-size: 21px; }
+
+
+
+
+}
+
+@media screen and (max-width: 1400px)
+{
+	.ourcoachespart_making:before{ bottom:61%; }
+}
+@media screen and (max-width:1200px)
+{
+	body h3{ font-size: 23px; }
+	p{ font-size: 16px; }
+	.wmf-home .entry-content>.jsn-bootstrap3:nth-child(2) .wr-element-text{max-width: 100%;}
+	.tetimonial-section-ful{padding: 30px;}
+	.jsn-bootstrap3 .row.latest-news-section .rpwwt-widget ul li img{height: 214px !important;}
+	footer .container{ padding-left: 0;padding-right: 0; }
+	.heaerprttp p{ font-size: 16px; line-height: 1.6; }
+	.heaerprttp h2{ font-size: 22px; } 
+	.contentoverlaythis.rightset.rightsetsidecont{ margin-left: 30px; }
+	.pathwaysalltotalcol p{ font-size: 16px; }
+	
+	.colleftrihrSet-icon{ left: 60px; }
+	.colleftrihrSetangle .colleftrihrSet-icon{ right: 60px; left: auto; }
+	.colleftrihrSet-right{ height: 240px; }
+	.wahywmf-mmenudevicee{ display: none !important; }
+	.contentoverlaythis{ width: 100%; padding: 0 20px !important; margin-left: 0 !important; margin-right: 0 !important }
+	.upcoming-collishow ul li{ font-size: 15px;line-height: 1; }
+	.upcoming-collishow ul li span{ max-width: 84%;line-height: 1.4; }
+	.upcoming-collishow ul li .fa{ margin-top: 3px; }
+	.footballer-policies-img{ height: 210px; }
+	.section-bckground-contet{ padding-left:20px; padding-right: 20px; }
+	.bgpartcount-section-text p{ font-size: 16px; /*line-height: 1.4;*/ }
+	.comment .wr-testimonial .wr-testimonial-item .wr-testimonial-box .wr-testimonial-content p, .comment-left .wr-testimonial .wr-testimonial-item .wr-testimonial-box .wr-testimonial-content p{ font-size: 16px; }
+	.heding-wmf-provide .wr_text p{ font-size: 26px; }
+	.week-holiday-section p, .col-parallsec p{ font-size: 15px;line-height: 1.6; }
+
+	.week-holiday-section .wr-element-image img{ height: 250px; }
+	.table-faq ol>li .sub-menu>li{ font-size: 15px; }
+	.apply-inner-section{ min-height: 444px !important; }
+	.apply-txt-inner{ width: 90% !important }
+	.slidersectionjoinus-right{ width: 55%; }
+	.discover-more ul li{ float: left !important; width: 25% !important; padding-right: 0 !important }
+	.jsn-bootstrap3.container .container{ max-width: 100% !important }
+	.pathfullcol-columninsetssinset{ margin-top: 3%; }
+	.talentid_third{ margin-top: 0 }
+
+	.section-background-colstwo{ padding: 50px 0; }
+	.page-template-1-on-1-trainings .heaerprttp{ padding-top: 60px; }
+	.oneonone-sec + .oneonone-sec{ margin-top: 60px; }
+	.aboutmainpagecustome.skrollable-between:after{ left: 38.8%; }
+
+	
+
+	
+
+}
+
+@media screen and (max-device-width:1200px)
+{
+	.bgpartcountcount-mobile{ display: block; }
+	.bgpartcount-section-all-cell .container div.mainsubsnnsn{ display: none !important; }
+	.form-contact .wpcf7-checkbox .wpcf7-list-item input{ margin-top: 2px !important; }
+	.col-sm-4section{ display: none !important; }
+	.linetool-box.added .center-left-top-line{ display: block !important; width: 25% !important  }
+	.wr-testimonial-avatar img{ max-width: none !important; }
+	
+
+}
+
+
+
+@media screen and (max-width:992px)
+{
+	.footer-nav-title{font-size: 18px;}
+	footer.footer_full .col-md-4{float: left;}
+	.existing-device-menu{display: block;}
+	.search-sectop,
+	.existing-suctomers{display: none !important;}
+	button#responsive-menu-button{display: none;}
+	.logo-web{position: relative; margin-left: 0;width: 180px;}
+	.webmenu-icon{position: relative; height: 47px; width: 40px;}
+	.header-custom header .col-md-6{float: left; width: 80%;}
+	.header-custom header .col-md-6:nth-of-type(2n){width: 20%;}
+	.header-custom{padding: 0}
+
+	.web-menu-bx{position: fixed; top: 0; right: 0; bottom: 0; left: 0; overflow: auto; width: 100%; padding: 40px 20px 40px 40px;  -webkit-overflow-scrolling: touch;}
+	.menu-main-menu-container{margin-bottom: 40px; float: left;}
+	.banner-content-full h3{font-size: 35px;}
+	.banner-content-full span{font-size: 20px;}
+	.book-freetrial-btn a{padding: 12px 25px;font-size: 16px; padding-right: 50px;}
+	.banner-content-full{padding: 20px 0 50px 0;}
+	h3.hedline-txt{font-size: 26px;}
+	.desc-txt{font-size: 17px;}
+	.academic-location-name{font-size: 40px;}
+	.weekly-training-fullsec-content div{font-size: 23px;}
+	.weekly-training-fullsec-content p{font-size: 17px; line-height: 26px;}
+	.weekly-training-fullsec-content{padding:25px;}
+	.author-descrip p{font-size: 17px;}
+	.web-menu-full{margin-top: 0}
+	.web-menu-bx ul >li > a:after{margin-left: -30px;}
+	.book-freetrial-btn a:after{background-size: 8px;width: 25px; height: 25px;right: 9px;}
+	.banner-content-full{height: 390px;}
+	.coach-children .col-sm-8{width: 100% !important;}
+	.tetimonial-section-ful{min-height: inherit;}
+	.wmf-home .entry-content>.jsn-bootstrap3>.row.grey-secbg.coach-children {padding: 50px 0 !important;}
+	footer .container {padding-left: 0;padding-right: 0;}
+	.entry-content>.jsn-bootstrap3>.row.findnearest_academy .section.form .row.text-center form input{width: 80% !important;}
+
+	.jsn-bootstrap3 .row.latest-news-section .rpwwt-widget ul{ margin: 0 -10px; }
+	.jsn-bootstrap3 .row.latest-news-section .rpwwt-widget ul li{ padding: 0 10px; }
+	.jsn-bootstrap3 .row.latest-news-section .rpwwt-widget ul li a{padding: 7px;}
+	.jsn-bootstrap3 .row.latest-news-section .rpwwt-widget ul li a span{font-size: 16px;}
+
+	.entry-content.search-btn-cols>.jsn-bootstrap3>.row.findnearest_academy .section.form .row.text-center form input{ width: 74% !important; }
+	.entry-content.search-btn-cols>.jsn-bootstrap3>.row.findnearest_academy .section.form .row.text-center form button{ width: 26% !important; }
+	.pathtphedbottomtext-in{ padding: 20px; }
+	.col-md-3.col-widthget{ display: none !important; }
+	.our-goals-wmfinnner .col-md-4{ width: 50% !important }
+	.our-goals-wmfinnner .col-md-4{ margin: 10px 0; }
+	.coachplay-tabs-content{ font-size: 16px; }
+	.wmf-provide-section .wr-element-image img{ max-height: 72px; }
+	.combination-top{ text-align: center; padding-top: 20px; }
+	.tetimonial-section-fulcenter .tetimonial-section-ful-row{ padding-left: 0;padding-right: 0;padding-bottom: 20px; }
+	.col-for-element-all .col-md-4{ float: left; width: 25%; }
+	.col-for-element-iner{ padding: 20px 0; }
+	.imagecol-text{ padding: 0; padding-top: 0; }
+	.imagecol-secc{ text-align: center;max-width: 300px; margin: 0 auto; }
+	.oneonone-sec .col-md-8{ float: left; width: 50%; }
+	.holiday-camps-txt-sldier .col-md-6{ width: 100%; }
+	.holiday-camps-txt-sldier .row{ display: block; }
+	.holiday-camps-txt-sldier .camps-slider-right{ padding: 100px 0; }
+	.time-section{ width: 70%; }
+	.time-line-inner p{ line-height: 1.4; }
+	.optionalexras-col .col-for-element-all .col-md-4{ width: 50%; }
+	.optionalexras-col .col-for-element-all .col-md-4:first-child{ display: none; }
+
+	.checkoutheading .hedline-txt:before{ width: 75px; background-position: left center; margin-top: -5px;}
+	.checkoutheading .hedline-txt:after{ width: 75px; background-position: right center; margin-top: -5px;}
+	.checkoutheading .hedline-txt{ padding-top: 5px; }
+	.holiday-camps-txt-sldier .camps-slider-right{ padding-bottom: 20px; }
+
+	.wmf-contact-us .findnearest_academyanimbx{ margin-top: 0 }
+	.leftpartslidertis{ width: 100%; float: left; }
+	.rightpartslidertis{ width: 100%; float: left; clear: both;}
+	.partsnewswrap-table{ display: block; float:left; }
+	ul.mid-linlk-ul li{ width: 25% !important; }
+	ul.mid-linlk-ul li:nth-child(6){ clear: none !important; }
+	.detail-ul li{ font-size: 15px !important; }
+	.detail-ul li:nth-child(1){ background-size: 18px !important }
+
+
+
+	.aboutusfullpaheto, 
+	.aboutusfullpagePart,
+	.aboutmainpagecustome,
+	.pathfullcol-column,
+	.custom-bg.fulwraper,
+	.ourcoachespart_making,
+	.pathfullcol-column,
+	.pathfullcol-columninsetss,
+	.aboutuspage-top-partsfooter{ position: initial !important;  transform: translate(0px, 0%) !important; -webkit-transform: translate(0px, 0%) !important; }
+
+	.custom-bg.fulwraper.skrollable-after{ -webkit-filter: blur(0px);-moz-filter: blur(0px);-ms-filter: blur(0px);-o-filter: blur(0px);filter: blur(0px);pointer-events: none; }
+	body.page-template-about-us{ /*height: 100% !important; */ }
+	.aboutusfullpaheto{ height: 100vh !important; margin-top: -60px; }
+	.aboutmainpagecustome{ padding: 0 0; background:#fff; }
+	.aboutmainpagecustome_parts{ width: 100%; background:#fff; margin: 10px 0; }
+	.secondpartsabo{ position: initial; margin-left: 0 }
+	.aboutmainpagecustome_parts:after{ display: none; }
+	.aboutmainpagecustome_parts-content{ padding-left: 0 }
+	.pathfullcol-columninsetssinset{ margin-top: 0 }
+	.pathfullcol-column{ width: 100%; margin-left: 0 }
+	.pathfullcol-columninsetssinset:after{ display: none; }
+	.pathfullcol-columninsetssinset{ padding: 50px 0; display: block; background:#fff; }
+	.aboutmainpagecustome.skrollable-between:before{ display: none; }
+	.pathfullcol-column-in{ width: 50%; background:#fff; border: 0 ;padding: 0 15px; }
+	.pathfullcol-column-in:nth-of-type(3),
+	.pathfullcol-column-in:nth-of-type(5),
+	.pathfullcol-column-in:nth-of-type(7),
+	.pathfullcol-column-in:nth-of-type(9),
+	.pathfullcol-column-in:nth-of-type(11){ clear: both; }
+	.ourcoachespart_making:before{ display: none; }
+	.custom-bg{ padding-bottom: 0 !important; }
+
+	.pathfullcol-columninsetssinset,
+	.aboutmainpagecustome-top{ transform: translate(0px, 0%) !important; -webkit-transform: translate(0px, 0%) !important; position: initial !important; left: 0 !important}
+	.slidersectionjoinus-right{  width: 55%; }
+	.customeparts_testimonials  .wr_text p{ line-height: 1.4; }
+	.wmf-join-our-team .form-contact form{ padding-left: 0; padding-right: 0 }
+	.col-sm-4section{ width: 190px; height: 190px; }
+	.our-value-inner img {max-height: 70px;}
+	.our-value-inner h3{ font-size: 19px; }
+	.our-value-inner{ padding-top: 41px; }
+
+	.pathfullcol-column-in-image{ height:280px; }
+	/*.aboutmainpagecustome_parts-content{ padding-top: 0 }*/
+
+	.coachplay-tabs-content{ display: none !important; }
+	.our-goals-wmfinnner .col-md-4{ width: 100% !important }
+	.playing-style-threesome .hedlinssdad{ height: 180px;  }
+	.inmediashowncl{ display: block; padding: 15px 0; font-size: 16px; }
+	.playing-style-threesome .our-goals-wmf-col{ pointer-events: none; }
+	.ourgial-winnercolsset.our-goals-wmfinnner .col-md-4.current .our-goals-wmf-col{ box-shadow: none; }
+	.ourgial-winnercolsset.our-goals-wmfinnner .col-md-4.current .our-goals-wmf-col:after{ display: none; }
+	.our-goals-wmf-col:after{ content: ""; width: 100%; height: 100%; position: absolute; top: 0; right: 0; bottom: 0; left: 0; z-index: 1; background:rgba(0, 0, 0, 0.4); border:0; margin:0;}
+	.playing-style-threesome .hedlinssdad{ background:rgba(0, 0, 0, 0.4); }
+	.playing-style-threesome .hedlinssdad{ height: inherit; min-height: inherit; }
+	.hedlinssdad{ min-height: inherit; }
+	.header-custom header.down-bottom{ bottom: 0; }
+	.news-slide-left h2{ font-size: 22px; }
+	.rightpartslidertis{ background:#fff; margin-top: 10px; }
+	.partsnewswrap-table{ background:transparent; }
+	#toppartbsdf.pathfullcol-column{ background:#fff; }
+	.about_ourethos_title{ display: block; }
+	.aboutmainpagecustome_parts-image:before,
+	.aboutmainpagecustome_parts-image:after{ display: none; }
+	.ourcoachsdevice_text{ display: block; font-size: 26px; padding-left: 4px; padding-right:4px; font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif; font-weight: 700; color: #333333;}
+	.pathfullcolcontent h4{ font-size: 20px;font-weight: 600;color: #222; }
+	.ourcoachesgreat_yet{ display: none; }
+	.partsnewswrap .owl-theme .owl-dots{ width: 100%; margin-top: 0; }
+	.rightpartslidertis{ height: inherit; }
+	#myModal_popup .modal-content .col-md-8,
+	#myModal_popup .modal-content .col-md-16{clear: both;}
+	.detail-ul li:nth-child(2){ background-position: left 5px !important; }
+	.detail-ul li:nth-child(3){ background-position: left 4px !important; }
+
+	.holiday-camps-txt-sldier.brthdaytoppaddbxs{ padding-bottom: 60px; }
+
+
+
+
+
+}
+
+
+
+@media screen and (max-width: 991px)
+{
+	.wmf-home .entry-content>.jsn-bootstrap3:nth-child(3) .row{margin: 0}
+	.wmf-home .entry-content>.jsn-bootstrap3:nth-child(3) .row>.wmf-col:nth-child(2){margin: 0 auto; width: inherit !important; border: 0 }
+	.wmf-home .entry-content>.jsn-bootstrap3:nth-child(3) .row>.wmf-col:nth-child(1), 
+	.wmf-home .entry-content>.jsn-bootstrap3:nth-child(3) .row>.wmf-col:nth-child(3){padding-left:5px; padding-right: 5px}
+	.wmf-home .entry-content>.jsn-bootstrap3:nth-child(3) .row>.wmf-col:nth-child(2) .wr-element-text .wr_text{padding-right: 4px;}
+	.coach-form{display: block; margin: 0 auto; margin-top: 30px; float:none;}
+	.holiday-camp-full .weekly-training-fullsec-content div{font-size: 25px;}
+	.coach-form{padding: 20px 20px 10px 20px;}
+
+	.wpcf7-repeater-item .wpcf7-form-control-wrap{width: 100%;}
+	.wpcf7-repeater-item .wpcf7-form-control-wrap:nth-of-type(2n){margin: 0; margin-top: 20px;}
+	.wpcf7-repeater-list .wpcf7-repeater-item + .wpcf7-repeater-item{margin-top: 15px;}
+
+	.entry-content>.jsn-bootstrap3>.row.findnearest_academy .section.form .container{max-width: 100%;}
+	.social-footer{padding-right: 0}
+	.wmf-home .entry-content>.jsn-bootstrap3:nth-child(3) .row>.wmf-col:nth-child(1), 
+	.wmf-home .entry-content>.jsn-bootstrap3:nth-child(3) .row>.wmf-col:nth-child(3),
+	.wmf-home .entry-content>.jsn-bootstrap3:nth-child(3) .row>.wmf-col:nth-child(2){max-width: 100%;}
+	.wmf-home .entry-content>.jsn-bootstrap3:nth-child(3) .row>.wmf-col:nth-child(2){padding: 0}
+
+	.web-menu-bx.device-hiden{ display: none !important; }
+	.menu-main-menu-container{ max-height: inherit !important; overflow:visible !important; }
+	.wmf-testimonials .comment .wr-testimonial .wr-testimonial-item .wr-testimonial-avatar{ position: initial !important;float: none;clear: both;margin: 0 auto;display: block; }
+	.comment .wr-testimonial .wr-testimonial-item .wr-testimonial-avatar img, .comment-left .wr-testimonial .wr-testimonial-item .wr-testimonial-avatar img{ position: initial !important; }
+	.wr-testimonial-box{ text-align: center !important; }
+	.comment .wr-testimonial .wr-testimonial-item .wr-testimonial-box .wr-testimonial-content p, .comment-left .wr-testimonial .wr-testimonial-item .wr-testimonial-box .wr-testimonial-content p{ text-align: center; }
+	.comment .wr-testimonial .wr-testimonial-item .wr-testimonial-meta, .comment-left .wr-testimonial .wr-testimonial-item .wr-testimonial-meta{ text-align: center; }
+	.wmf-testimonials .comment .wr-testimonial .wr-testimonial-item .wr-testimonial-box:after{ float: none;display: block;margin: 0 auto; margin-bottom: 20px; margin-left: auto !important; margin-right: auto !important;}
+	.comment .wr-testimonial .wr-testimonial-item .wr-testimonial-meta .wr-testimonial-name, .comment-left .wr-testimonial .wr-testimonial-item .wr-testimonial-meta .wr-testimonial-name{ float: none; display: inline-block; }
+	.comment .wr-testimonial .wr-testimonial-item .wr-testimonial-meta .wr-testimonial-jobtitle, .comment-left .wr-testimonial .wr-testimonial-item .wr-testimonial-meta .wr-testimonial-jobtitle{ float: none; }
+	.wmf-testimonials .comment .wr-testimonial .wr-testimonial-item .wr-testimonial-meta{ padding-right: 0 }
+
+	.slidersectionjoinus-right{  width: 100%; position: initial; }
+	.slidersectionjoinus-left{ max-height: 400px; }
+	.slidersectionjoinus-left:after{ display: none; }
+	.slidersectionjoinus_content{ padding-left: 10px; padding-right: 10px; padding-top: 20px ; padding-bottom: 20px; }
+	.wmf-testimonials .comment .wr-testimonial .wr-testimonial-item .wr-testimonial-meta,
+	.wmf-testimonials .comment .wr-testimonial .wr-testimonial-item .wr-testimonial-box{ float: none;clear: both;margin: 0 auto; }
+	.wmf-testimonials .comment .wr-testimonial .wr-testimonial-item .wr-testimonial-avatar img{ position: initial; }
+	.page-template-default.wmf-testimonials .entry-content>div:nth-child(5) .row.wr_fullwidth .wmf-col .wr-element-testimonial.comment .slide.wr-testimonial .carousel-inner .active .wr-testimonial-item .wr-testimonial-avatar{ margin-left: auto; }
+	.wmf-testimonials .entry-content>.jsn-bootstrap3:nth-child(5) .wr_fullwidth .wmf-col .wr-element-testimonial .wr-testimonial .row>.wr-testimonial-item:nth-child(2) .wr-testimonial-box:after{ margin-left: auto; }
+
+
+	
+
+
+	.wmf-wmf-in-school-training .hender-pastor .comment .wr-testimonial .wr-testimonial-item .wr-testimonial-avatar{ position: initial !important;float: none;display: block;margin: 0 auto;margin-top: 20px; }
+	.wmf-wmf-in-school-training .hender-pastor .comment .wr-testimonial .wr-testimonial-item .wr-testimonial-box{ margin: 0 auto;display: block;float: none; }
+	.wmf-wmf-in-school-training .hender-pastor .comment .wr-testimonial .wr-testimonial-item .wr-testimonial-box:after{ display: block; float: none; margin-left: auto; margin-right: auto; }
+	.wmf-wmf-in-school-training .hender-pastor .comment .wr-testimonial .wr-testimonial-item .wr-testimonial-meta { float: none; display: block; margin-left: auto; margin-right: auto; padding-right: 0}
+
+	.page-template-default.wmf-apprenticeship-level .entry-content>div.jsn-bootstrap3:nth-child(3) .wmf-col:nth-child(2) .comment .carousel-inner .active .wr-testimonial-item .wr-testimonial-box{ width: 100%; float: left; margin-bottom: 20px; }
+	.wmf-apprenticeship-level .entry-content .jsn-bootstrap3:nth-child(3) .row .wmf-col:nth-child(2) .wr-element-testimonial .wr-testimonial-item .wr-testimonial-box:after{ margin-left: auto; margin-right: auto; display: block;float: none; }
+	.page-template-default.wmf-apprenticeship-level .entry-content>div.jsn-bootstrap3:nth-child(3) .wmf-col:nth-child(2) .comment .carousel-inner .active .wr-testimonial-item .wr-testimonial-avatar{ width: 100%;  float: left; height: auto !important; clear: both;}
+	.page-template-default.wmf-apprenticeship-level .entry-content>div.jsn-bootstrap3:nth-child(3) .wmf-col:nth-child(2) .comment .carousel-inner .active .wr-testimonial-item .wr-testimonial-meta{ width: 100%; position: initial; }
+	.page-template-default.wmf-professional-academy .entry-content>.jsn-bootstrap3:nth-child(9) .row .wmf-col .wr-element-testimonial .carousel .carousel-inner .item .wr-testimonial-item:nth-child(1) .wr-testimonial-box, .page-template-default.wmf-professional-academy .entry-content>.jsn-bootstrap3:nth-child(9) .row .wmf-col .wr-element-testimonial .carousel .carousel-inner .item .wr-testimonial-item:nth-child(1) .wr-testimonial-meta, .page-template-default.wmf-professional-academy .entry-content>.jsn-bootstrap3:nth-child(9) .row .wmf-col .wr-element-testimonial .carousel .carousel-inner .item .wr-testimonial-item:nth-child(2) .wr-testimonial-box, .page-template-default.wmf-professional-academy .entry-content>.jsn-bootstrap3:nth-child(9) .row .wmf-col .wr-element-testimonial .carousel .carousel-inner .item .wr-testimonial-item:nth-child(2) .wr-testimonial-meta{ width: 100%; padding-right: 0; padding-left: 0; margin-bottom: 15px; max-width: 100%;}
+	.page-template-default.wmf-professional-academy .entry-content>.jsn-bootstrap3:nth-child(9) .row .wmf-col .wr-element-testimonial .carousel .carousel-inner .item .wr-testimonial-item:nth-child(1) .wr-testimonial-avatar, .page-template-default.wmf-professional-academy .entry-content>.jsn-bootstrap3:nth-child(9) .row .wmf-col .wr-element-testimonial .carousel .carousel-inner .item .wr-testimonial-item:nth-child(2) .wr-testimonial-avatar{ width: 100%; position: initial; display: block; }
+	.page-template-default.wmf-professional-academy .entry-content>.jsn-bootstrap3:nth-child(9) .row .wmf-col .wr-element-testimonial .carousel .carousel-inner .item .wr-testimonial-item:nth-child(1) .wr-testimonial-box, .page-template-default.wmf-professional-academy .entry-content>.jsn-bootstrap3:nth-child(9) .row .wmf-col .wr-element-testimonial .carousel .carousel-inner .item .wr-testimonial-item:nth-child(1) .wr-testimonial-meta, .page-template-default.wmf-professional-academy .entry-content>.jsn-bootstrap3:nth-child(9) .row .wmf-col .wr-element-testimonial .carousel .carousel-inner .item .wr-testimonial-item:nth-child(2) .wr-testimonial-box, .page-template-default.wmf-professional-academy .entry-content>.jsn-bootstrap3:nth-child(9) .row .wmf-col .wr-element-testimonial .carousel .carousel-inner .item .wr-testimonial-item:nth-child(2) .wr-testimonial-meta{ width: 100%; padding-left: 0;padding-right: 0 ; max-width: 100%;}
+
+	.wmf-professional-academy.page-template-default .entry-content>div:nth-child(9) .row .wmf-col>div:nth-child(3) .carousel .item>div:nth-child(1) .wr-testimonial-meta{ max-width: 100%; }
+	.wmf-professional-academy .comment .wr-testimonial .wr-testimonial-item .wr-testimonial-box{ max-width: 100%; }
+	.page-template-default.wmf-professional-academy .entry-content>.jsn-bootstrap3:nth-child(9) .row .wmf-col .wr-element-testimonial .carousel .carousel-inner .item .wr-testimonial-item:nth-child(1) .wr-testimonial-box .wr-testimonial-content p{ max-width: 100%; margin-left: 0; padding-right: 15px; padding-left: 15px; }
+	.wmf-professional-academy.page-template-default .entry-content>div:nth-child(9) .row .wmf-col>div:nth-child(3) .carousel .item>div:nth-child(1) .wr-testimonial-box:after{ display: block; margin-left: auto !important;  margin-right: auto !important; float: none;}
+	.wmf-professional-academy.page-template-default .entry-content>div:nth-child(9) .row .wmf-col>div:nth-child(3) .carousel .item>div:nth-child(2) .wr-testimonial-box .wr-testimonial-content p{ max-width: 100%; padding-left: 15px ; padding-right: 15px; }
+	.comment .wr-testimonial .wr-testimonial-item .wr-testimonial-box:after, .comment-left .wr-testimonial .wr-testimonial-item .wr-testimonial-box:after{ float: none !important; margin-left: auto !important; margin-right: auto !important; display: block; }
+	.page-template-default.wmf-professional-academy .entry-content>.jsn-bootstrap3:nth-child(9) .row .wmf-col .wr-element-testimonial .carousel .carousel-inner .item .wr-testimonial-item:nth-child(1) .wr-testimonial-avatar, .page-template-default.wmf-professional-academy .entry-content>.jsn-bootstrap3:nth-child(9) .row .wmf-col .wr-element-testimonial .carousel .carousel-inner .item .wr-testimonial-item:nth-child(2) .wr-testimonial-avatar{ height: auto !important; }
+	.wmf-professional-academy .comment .wr-testimonial-item.col-md-6:nth-child(1){ margin-bottom: 0 }
+	.page-template-default.wmf-professional-academy .entry-content>.jsn-bootstrap3:nth-child(9) .row .wmf-col .wr-element-testimonial .carousel .carousel-inner .item .wr-testimonial-item:nth-child(1) .wr-testimonial-box .wr-testimonial-content p{ font-size: 16px; }
+	.web-menu-bx ul li a{ padding: 14px 0; }
+	.web-menu-bx ul li.menu-item-has-children:after{ width: 50px;height: 59px; background-position: 20px -25px; }
+	.web-menu-bx ul li.menu-item-has-children.current:after{ background-position:20px 25px; }
+	
+
+
+
+	
+}
+
+@media screen and (max-device-width:992px)
+{
+	.wmf-football-training .comment .wr-testimonial-item .wr-testimonial-avatar, .wmf-other-services .comment .wr-testimonial-item .wr-testimonial-avatar{ left: -20px !important; }
+
+}
+
+
+
+@media screen and (max-width: 850px)
+{
+	.left-local-class, .right-search-postcode{ width: 100% !important; }
+}
+
+@media screen and (max-width:768px)
+{	
+	footer.footer_full .col-md-4{width: 50%;}
+	footer.footer_full .col-md-4:nth-of-type(3n){width: 100%; clear: both; padding-top: 20px;}
+	.footer-col-bx{float: left !important;max-width: 280px;}
+	.copyright-sec{width: 100%; text-align: center;}
+	.social-footer{width: 100%; text-align: center;padding: 20px 0 0 0;}
+	.social-footer .icon-socials{float: none; display: inline-block;}
+	.jsn-bootstrap3.container .col-sm-16{float: left; width: 100%;}
+	.author-descrip div{font-size: 18px; line-height: normal;}
+	.author-descrip p{font-size: 16px; line-height: normal;}
+	.holiday-camp-full .weekly-training-fullsec-content p{font-size: 17px; line-height: 26px;}
+
+	.weekly-training-fullsec-content,
+	.weekly-training-fullsec.joinateam-sec .weekly-training-fullsec-content{width: 100%; margin:0; max-width: 100%; box-shadow: 0 0px 0 1px #ddd; position: relative; margin-top: -1px; }
+
+	.weekly-training-fullsec-img{width: 100%; max-width: 100%; }
+	.weekly-training-fullsec.joinateam-sec .weekly-training-fullsec-content{margin-top: auto; margin-bottom: -1px;box-shadow: 0 0px 0 1px #ddd;}
+	.coach-form{padding: 40px 30px 10px 30px;}
+	.checkoutheading .hedline-txt:before,
+	.checkoutheading .hedline-txt:after{display: none;}
+	footer .container {padding-left: 15px;padding-right: 15px;}
+	
+	.jsn-bootstrap3 .row.latest-news-section .rpwwt-widget ul li{ width: 100%; }
+	.jsn-bootstrap3 .row.latest-news-section .rpwwt-widget ul li a{float: left;}
+	.jsn-bootstrap3 .row.latest-news-section .rpwwt-widget ul li img {height: 144px !important;width: 144px !important;float: left; margin-right: 20px !important}
+	.jsn-bootstrap3 .row.latest-news-section .rpwwt-widget ul li a span{overflow: hidden;float: none;clear: none;}
+
+	.desktop-none-data{ display: block; }
+	.desktop-show-data{ display: none; }
+	.table-faq ol>li{ padding-left: 10px; }
+	.table-faq ol>li .sub-menu{ margin-right: -40px; }
+	.section-twocol-col{ width: 100%; display: block; max-width: 100%; height: inherit; clear: both; float: left; }
+	.section-twocol-table{ display: block; float: left;}
+	.section-twocol-col-imagebx img{ max-height: 400px; }
+	.contentoverlaythis.rightset.rightsetsidecont { width: 100%; margin-left: 0; padding: 20px !important; }
+	.left-revolver-img-parent{ width: 100%; display: block; }
+	.about-revolver-right{ display: block; width: 100%; padding: 20px; }
+	.parent-table{ display: block; width: 100%; text-align: center; }
+	.left-revolver-img{ width: 140px; height: 140px; margin: 0 auto; }
+	.section-background-col-table{ display: block; text-align: center; min-height: inherit !important;}
+	.section-background-col{ display: block; width: 100%; max-width: 100%; padding: 10px 0; }
+	.section-background-col:nth-of-type(2n){ padding-left: 0 }
+	.section-bckground-boldtext{ max-width: 100%; }
+	.colleftrihrSet-right{ width: 100%; height: inherit !important; margin-bottom: 40px;}
+	.colleftrihrSet-left{ width: 100%; }
+	.colleftrihrSet-icon{ position: relative !important; z-index: 5; margin: 0 auto !important; display: block; float: none; left: auto !important; right: auto !important; top: 0 !important ;transform: translate(0, 0);-webkit-transform: translate(0, 0);}
+	.linetool-box.added .whattopup-line,
+	.linetool-box.added .line-tp-down,
+	.linetool-box.added .linehoriontal-tp-down,
+	.linetool-box.added .leftpartss,
+	.linetool-box.added .revercepatcolpath.halfs .leftpartssdf,
+	.linetool-box.added .left__bottom_centerside-line,
+	.linetool-box.added .left_side-line,
+	.linetool-box.added .top-right-line,
+	.linetool-box.added .topcenter-right-line,
+	.linetool-box.added .top-right-linecentersj{ display: none; }
+
+	#grassroots-shcol{ position: relative; }
+	#grassroots-shcol:after{ content: ""; position: absolute; left: 50%; background:#bbb; width: 1px; top: 0; bottom: 150px; }
+	#professional_training{ position: relative; }
+	#professional_training:after{ content: ""; position: absolute; left: 50%; background:#bbb; width: 1px; top: 0; bottom: 100px; }
+	.howdoes-imagecenter{ position: relative; z-index: 2; }
+	.btnsof_astsection{ position: relative; z-index: 2 }
+	.colleftrihrSet-leftIn{ max-width: 100%; }
+
+	#grassroots-shcol .linehr-tp-device{ position: absolute;left: 25%;top: -90px;width: 1px;background: #bbb;height: 90px;}
+	#grassroots-shcol .linehr-down-device{ position: absolute;left: 25%;top: 0;height: 1px;background: #bbb; width: 25%;}
+
+	#professional_training .linehr-tp-device{ position: absolute;right: 25%;top: -90px;width: 1px;background: #bbb;height: 90px;}
+	#professional_training .linehr-down-device{ position: absolute;right: 25%;top: 0;height: 1px;background: #bbb; width: 25%;}
+
+
+	.our-value-inner img{ max-height: 60px;}
+	.our-value-inner h3{  font-size: 17px; }
+	.our-value-inner{ margin-bottom: 10px; }
+	.indesktopnone{ display: block !important; }
+	.inmobilenone{ display: none !important; }
+	.contentoverlaythis{ padding: 20px !important; }
+	.section-bckground-contet-middle{ padding: 0; }
+	.footballer-policies-col{ border-width: 5px; float: none !important; margin: 15px auto }
+	.image-height-control .section-twocol-col{ height: auto; }
+	.playing-style-threesome .hedlinssdad{ padding: 20px; height: 220px; }
+	.bgpartcount-section-all-cell .container div.mainsubsnnsn{ font-size: 80px; }
+	.salsh-midle{ margin: 0 -17px; }
+	.wmf-provide-section .wmf-col{ margin: 10px 0; }
+	.wr-testimonial-content p, .wr-testimonial-content{ text-align: center !important; }
+	.wr-testimonial-avatar{ height: 165px !important;width: 165px !important;float: none !important;margin: 0 auto !important;display: block !important; margin-bottom: 10px !important;}
+	.wmf-testimonials .comment .wr-testimonial .wr-testimonial-item .wr-testimonial-avatar img{ height: 165px;width: 165px; }
+	.page-template-default.wmf-wmf-in-school-training .hender-pastor .comment .wr-testimonial .wr-testimonial-item { padding: 0 15px!important;}
+	.trusts-logos ul li{ width: 25%; }
+	.combination-top h2{ font-size: 25px; }
+
+	.col-for-element-all .col-md-4{ width: 100%; }
+	.col-for-element-iner{ min-height: inherit; padding: 10px 0 }
+	.col-for-element-icon{ display: inline-block;vertical-align: middle; float: left; margin: 0 }
+	.col-for-element-iner p{ display: block; overflow: hidden; text-align: left; padding-top: 15px; }
+	.party-package .col-for-element-iner{ min-height: inherit; }
+
+
+	.party-package .col-md-4{ width:50%; }
+	.contentoverlaythis.contentoverlaythis-bl{ width: 100%;padding: 20px !important;margin-left: 0px !important; }
+	.contentoverlaythis-bl:after{ display: none; }
+	.oneonone-sec .col-md-8{ width: 100%; text-align: center; }
+	.oneonone-sec:nth-of-type(2n) .imagecol-text{ text-align: center; }
+	.imagecol-text{ padding-top: 20px; }
+	.footerabove-section h3{ font-size: 17px; }
+	.top-video-section iframe{ height: 350px !important }
+	.camp-info-top-txt .col-md-3{ width: 50%; margin: 1px 0; }
+	.time-line-section{ padding-left:10px; padding-right: 10px;  }
+	.week-holiday-section .wr_text{ min-height: inherit; }
+	.wr-testimonial-avatar img{ max-width: 100% !important }
+	.week-holiday-section .wmf-col.col-md-8{ margin: 20px 0; }
+	.col-parallsec .col-md-6{ padding-right: 0 }
+	.col-parallsec .col-md-6 img{ width: 100%; }
+	
+	.optionalexras-col .col-for-element-all .col-md-4{ width: 100%; margin: 5px 0; }
+	.customform .col-md-8:nth-of-type(2){ padding-left: 10px; }
+	.pathwaycolnamethis{ font-size: 20px; }
+	ul.mid-linlk-ul{ padding-left: 16px !important }
+	ul.mid-linlk-ul li{ width: 33.3333% !important; }
+	ul.mid-linlk-ul li a{ font-size: 15px !important; }
+	ul.mid-linlk-ul li a:after{ background-size: 53% !important;top: 4px !important; }
+	.london_academy h3, .north_west h3{ font-size: 20px !important }
+	.book-freetrial-btn a{ padding-right: 35px !important; }
+	#suggesstion-box ul li a{ font-size: 13px; }
+	.wmfaboutusfullpahetocell h2{ font-size: 30px; }
+	.discover-more-section .col-sm-4{ width: 50% !important; float: left; }
+	.discover-more-inner h4{ font-size: 16px !important; }
+	.table-faq ol>li{ font-size: 16px; }
+	.our-values p, .join-us p{ font-size: 16px !important }
+	.vacancies-section .col-sm-6{ width: 100% !important; }
+	.apply-inner-section{ min-height: inherit !important; }
+	.apply-txt-inner{ transform: translate(0%,0%) !important;  -webkit-transform: translate(0%,0%) !important; position: relative !important; padding: 60px 0; width: 100% !important; left: 0 !important; top: 0 !important;}
+	.slidersectionjoinus_content p{ font-size: 15px !important }
+	.section-bckground-contet{ line-height: 1.4; }
+	.customeparts_testimonials .wr_text p{ height: inherit !important; }
+	.wmf-join-our-team .form-contact form p .btn-submit, .wmf-join-our-team2 .form-contact form p .btn-submit{ padding-left: 10px; padding-right: 10px; }
+	.bgpartcountcount-mobile{ font-size: 80px; }
+	.col-sm-4section{ margin-bottom: 10px; }
+	.wmf-wmf-in-school-training .hender-pastor .comment .wr-testimonial .wr-testimonial-item .wr-testimonial-avatar img{ height: 165px; width: 165px; }
+	.wmf-wmf-in-school-training .hender-pastor .comment .wr-testimonial .wr-testimonial-item .wr-testimonial-avatar{ margin-top: 20px !important }
+
+	.col-for-element-iner{ text-align: left; }
+	.col-for-element-all .col-md-4{ text-align: left; }
+	.col-for-element-icon{ float: none; }
+	.col-for-element-iner p{ text-align: left;padding-top: 0;max-width: 80%;margin-bottom: 0;vertical-align: middle; overflow: visible; display: inline-block; }
+	.party-package .col-for-element-iner p{ max-width: 60%; }
+	.col-section-twocol{ padding-top: 40px !important;  padding-bottom: 40px !important;}
+	.page-template-default.wmf-apprenticeship-level .entry-content>div.jsn-bootstrap3:nth-child(3) .wmf-col:nth-child(2) .comment .carousel-inner .active .wr-testimonial-item .wr-testimonial-box{ margin-bottom: 0 }
+
+	.talenttwo_sec_content{ float: left; margin-left: 50%; transform: translate(-50%, 0);  -webkit-transform: translate(-50%, 0); margin-top: -80px; padding: 30px; max-width: 90%;}
+	.bottomcontentj_third{ padding: 30px; margin-left: -40px; }
+	.talentid_third{ margin-top: 40px; }
+	.page-template-our-methods .hdlsidicovery br{ display: none; }
+	.camps-slider-left-txt{ text-align: center; }
+	.page-template-our-methods .row.value1 .section-twocol-col-content .hdlsidicovery,
+	.page-template-our-methods .row.value2 .section-twocol-col-content .hdlsidicovery,
+	.page-template-our-methods .row.value3 .section-twocol-col-content .hdlsidicovery,
+	.page-template-our-methods .row.value4 .section-twocol-col-content .hdlsidicovery{ text-align: center; }
+	.wmf-provide-section .wmf-col{ margin:30px 0; }
+	.contentoverlaythis.rightset.rightsetsidecont{ text-align: center; }
+	.nobgandfull .contentoverlaythis.rightset{ text-align: center; }
+	.contentoverlaythis ul li:before{ position: initial;display: inline-block;vertical-align: middle;margin-right: 7px;margin-top: -1px; }
+	.contentoverlaythis ul li p{ float: none;display: inline;width: auto; }
+	.contentoverlaythis ul li{ padding-left: 0 }
+	.pagetitlename br{ display: none; }
+	.page-id-2156 .pagetitlename{ max-width: 100%; }
+	.section-bckground-contet ul li{ display: inline-block; width: auto; background:none !important; position: relative;  padding-left: 0 }
+	.section-bckground-contet ul li:before{ content: "";width: 34px;height: 30px;background: url(../../img/tick-icon-left-white.png) 0 8px no-repeat;background-size: 20px;display: inline-block;vertical-align: top;position: relative;margin-top: -6px; }
+	.right_sec .table.table-hover p{ font-size: 14px; }
+
+	.left_sec{ width: 100% !important; padding-right: 0 !important }
+	 .right_sec{ width: 100% !important; padding-bottom: 20px; margin-top: 20px; }
+
+ .trusts-logos ul li:nth-of-type(6),
+.trusts-logos ul li:nth-of-type(11),
+.trusts-logos ul li:nth-of-type(16),
+.trusts-logos ul li:nth-of-type(21),
+.trusts-logos ul li:nth-of-type(26){ clear: none; }
+
+ .trusts-logos ul li:nth-of-type(5),
+.trusts-logos ul li:nth-of-type(9),
+.trusts-logos ul li:nth-of-type(13),
+.trusts-logos ul li:nth-of-type(17),
+.trusts-logos ul li:nth-of-type(21),
+.trusts-logos ul li:nth-of-type(25),
+.trusts-logos ul li:nth-of-type(29){ clear: both; }
+.bgpartcount-section-text p{ /*line-height: 1.7;*/ } 
+
+
+}
+
+@media screen and (max-width: 767px)
+{
+	.entry-content>.jsn-bootstrap3>.row.findnearest_academy .section.form .row.text-center form button{margin-top: 0}
+	.entry-content>.jsn-bootstrap3>.row.findnearest_academy .section.form .row.text-center form input{margin-top: 0}
+	body.wmf-login .wr-element-image img{ height: inherit !important; }
+
+	.author-commentcarousel-left{ width: 100%; }
+	.author-commentcarousel-right{ padding: 10px 0; text-align: center; clear: both; width: 100%; overflow: visible; }
+	.author-commentcarousel-col{ padding-left: 0; padding-right: 0; }
+	.time-line-section .col-md-push-6{ left: 0px; }
+	.time-line-section .col-md-6{ width: 100%; }
+	.left-linear .related-icon{ left: 0 }
+	.related-icon{ left: 0 }
+	.time-line-inner, .left-linear{ padding-left: 100px; padding-right: 0; text-align: left; }
+	.mid-line-for-time:after{ left: 40px; right: auto; }
+	.time-section{ width: 150px; }
+	.wmle_container .wmle_item_holder.col3{ width: 50% !important; }
+	.aboutusfullpahetoccenter{ padding-left: 0; padding-right: 0 }
+	.wmfaboutusfullpahetocell p{ font-size: 16px; }
+	.wmfaboutusfullpahetocell h2{ font-size: 24px; }
+	.aboutusfullpaheto-logo{ width: 50px;height: 50px;padding: 0; }
+	.aboutusfullpahetoccenter{ border-bottom: 0; box-shadow: none; padding-bottom: 0; }
+	.page-template-default.wmf-testimonials .entry-content>div:nth-child(5) .row.wr_fullwidth .wmf-col .wr-element-testimonial.comment .slide.wr-testimonial .carousel-inner .active .wr-testimonial-item .wr-testimonial-meta{ max-width: 100% !important }
+	.col-parallsec{ padding-bottom: 20px !important; }
+
+	.page-template-default.wmf-our-coaches .hentry.jsn-master .entry-content>div:nth-child(3) .row .wmf-col:nth-child(2) .wr-element-container.wr-element-list ul li .wr-list-content-wrap p img{ position: initial !important; display: block; margin:10px auto !important; }
+	.col-sm-4.fa_level, .col-sm-4.youth_module, .col-sm-4.fa_futsal{ width: 100%; }
+
+}
+@media screen and (max-width:650px)
+{
+	.copyright-text{padding-left: 0; width: 100%; clear: both; padding-top: 10px;}
+
+	.web-menu-bx{padding: 20px 10px 20px 20px;}
+	.academic-location-name{font-size: 30px;}
+	.entry-content>.jsn-bootstrap3>.row.findnearest_academy h3{font-size: 23px;}
+	.entry-content>.jsn-bootstrap3>.row.findnearest_academy .section.form .row.text-center form{padding: 10px;}
+	.coach-form{ max-width: 100% !important; padding: 0 }
+	.holiday-camp-full{max-width: 94%;}
+	.holidaycamp-image img{margin-top: 0}
+
+	.entry-content>.jsn-bootstrap3>.row.findnearest_academy .section.form .row.text-center form input{width: 75% !important}
+	.entry-content>.jsn-bootstrap3>.row.findnearest_academy .section.form .row.text-center form button{width: 25% !important}
+	body h1{font-size: 28px;}
+	.section-all-row-tesim .testimslidebottomse{ padding-left:0px; padding-right: 0px; }
+	.discover-more ul li{ width: 50% !important;}
+
+
+	.banner-content-full h3{font-size: 27px;}
+
+	.entry-content.search-btn-cols>.jsn-bootstrap3>.row.findnearest_academy .section.form .row.text-center form input{ width: 70% !important; }
+	.entry-content.search-btn-cols>.jsn-bootstrap3>.row.findnearest_academy .section.form .row.text-center form button{ width: 30% !important; }
+
+	.animation-draw-content{ width: 100% !important; max-width: 100% !important; overflow: visible; clear: both; padding: 20px 0; float: left; text-align: center; margin: 0 !important;}
+	.animation-draw-sec-inset{ max-width: 100%; }
+	.animation-draw-sec.paddig-left100 .animation-draw-sec-inset{ padding-left: 0; }
+	.animation-draw-sec .animation-draw-sec-icon{ float: none; margin: 0 auto !important; }
+	.sectiondevicelineups .animation-draw-sec{ padding-bottom: 0; }
+	.animation-draw-sec .animation-draw-sec-icon{ width: 100px; height: 100px; }
+	.our-goals-wmf-col{ padding: 20px; }
+	.trusts-logos ul li{ width: 33.3333%; }
+	.wr-element-container img{/* max-height: 70px;*/ object-fit: cover; }
+	.page-header-pages-image,
+	.page-header-pages{ height: 300px; }
+
+	.imagecol-secc div{ max-width: 250px; }
+	.upper-txt p, .slide-txt p{ line-height: 1.5; font-size: 16px; }
+	 .pathwaytwocolimg:hover, .pathwaytwocolimg.active{ z-index: 8; position: relative; }
+	 .left_sec{ width: 100% !important; padding-right: 0 !important }
+	 .right_sec{ width: 100% !important; padding-bottom: 20px; margin-top: 20px; }
+	 .background-trustshis .hedlsss{ font-size: 24px; }
+
+
+	 .added .top-left-line,
+	.added .bottom-left-right-line,
+	.added .bottom-right-line,
+	.added .revercethis .top-left-line,
+	.added .revercethis .bottom-left-right-line,
+	.added .revercethis .bottom-right-line,
+	.added .left-bottom-left-line-dotted,
+	.added .top-right-left-line,
+	.added .top-bottom-left-line,
+	.added .left-bottom-left-line{ display: none !important; }
+
+	.talentid_third_cell{ max-width: 100%; min-width: 100%; width: 100%; display: block;}
+	.talentid_third_table{ display: block; float: left; }
+	.talentid_third__imag_ce img{ max-height: 480px; }
+	.bottomcontentj_third{ float: left;margin-left: 50%;transform: translate(-50%, 0);-webkit-transform: translate(-50%, 0);margin-top: -80px;padding: 30px; max-width: 90%;}
+	.talentid_third{ margin-bottom: 10px; }
+	.page-template-our-methods .hdlsidicovery{ font-size: 21px; line-height: 1.5; }
+	.rightpartslidertis img{ max-height: 216px; min-height: 216px; }
+	#myModal_popup h4{ font-size: 18px;margin-top: -5px; }
+
+
+	 .trusts-logos ul li:nth-of-type(5),
+.trusts-logos ul li:nth-of-type(9),
+.trusts-logos ul li:nth-of-type(13),
+.trusts-logos ul li:nth-of-type(17),
+.trusts-logos ul li:nth-of-type(21),
+.trusts-logos ul li:nth-of-type(25),
+.trusts-logos ul li:nth-of-type(29){ clear: none; }
+
+	 .trusts-logos ul li:nth-of-type(4),
+.trusts-logos ul li:nth-of-type(7),
+.trusts-logos ul li:nth-of-type(10),
+.trusts-logos ul li:nth-of-type(13),
+.trusts-logos ul li:nth-of-type(16),
+.trusts-logos ul li:nth-of-type(19),
+.trusts-logos ul li:nth-of-type(22),
+.trusts-logos ul li:nth-of-type(25),
+.trusts-logos ul li:nth-of-type(28),
+.trusts-logos ul li:nth-of-type(31){ clear: both; }
+
+.aboutmainpagecustome_parts-table{ display: block; float: left; }
+.aboutmainpagecustome_parts-content{ display: block; float: left; width: 100%; min-width: 100%; max-width: 100%; padding-right: 0}
+.aboutmainpagecustome_parts-imagecell{ display: block; float: left; width: 100%; min-width: 100%; max-width: 100%; }
+.aboutmainpagecustome_parts-image img{ min-height: auto; object-fit: initial; }
+.aboutmainpagecustome_parts-image{ height: auto; }
+
+
+
+}
+
+@media screen and (max-width:567px)
+{
+	body h3{ font-size: 19px; }
+	.upcomingtaleidsection_show-img{ width: 100%; }
+	.upcomingtaleidsection_show-content{ margin: 0; padding:10px 0; overflow: visible; width: 100%; clear: both; }
+	.our-goals-wmfinnner .col-md-4{ width: 100% !important; }
+
+	.holiday-camps-txt-sldier .camps-slider-right{ padding: 50px 0; }
+	.slide-txt{ width: 100%; }
+	.holiday-camps-txt-sldier .carousel-control.right,
+	.holiday-camps-txt-sldier .carousel-control.left{ display: none; }
+	.camps-slider-left-txt{ padding: 50px 20px; }
+	.time-line-inner, .left-linear{ padding-left: 70px; }
+	.related-icon{ width: 66px; height: 66px; }
+	.related-icon img{ max-width: 70%; }
+	.slide-txt{ padding-left: 10px; padding-right: 10px; }
+	.pathwaycolnamethis{ font-size: 18px; }
+	ul.mid-linlk-ul li{ width: 50% !important; }
+	.pathfullcol-column-in{ width: 100%; }
+	.aboutmainpagecustome_parts-image{ width: 100%; }
+	.aboutmainpagecustome_parts-content{ width: 100%; }
+	.pathfullcol-column-in-image{ height: 250px; }
+ 
+	.discover-more-section .col-sm-4:nth-of-type(3),
+	.discover-more-section .col-sm-4:nth-of-type(5),
+	.discover-more-section .col-sm-4:nth-of-type(7){ clear: both; }
+	.aboutmainpagecustome_parts{ padding-left: 10px; padding-right: 10px; }
+	.aboutuspage-top-partsfooter{ padding-left: 0; padding-right: 0;  }
+	.aboutmainpagecustome_parts{ padding-bottom: 0 }
+	.form-contact .wpcf7-checkbox .wpcf7-list-item{ width: 100% !important }
+	.wmf-join-our-team .form-contact form p, .wmf-join-our-team2 .form-contact form p{ line-height: 1.4; }
+	.col-for-element-iner p{ max-width: 70%; }
+	.party-package .col-md-4{ width: 100%; }
+
+	.children-popup .modal-title {margin-top: 0px !important;}
+	.about_ourethos_title{ margin-top: 50px; }
+	/*.ourcoachsdevice_text{ font-size: 21px; }*/
+
+	#myModal_popup h4{ font-size: 15px !important;margin-top: -5px; }
+	.customform .col-md-8 ul li a{ font-size: 17px; }
+	.wmf-contact-us .customform .col-md-8 ul li a .fa{ top: 2px; }
+	.wmf-join-our-team .form-contact form p, .wmf-join-our-team2 .form-contact form p{ font-size: 16px; }
+
+	.holiday-camps-txt-sldier.brthdaytoppaddbxs .slide-txt{ padding-right: 0; padding-left: 0; }
+
+
+}
+
+
+@media screen and (max-width:480px)
+{	
+	body h2 {font-size: 21px;}
+	.year-txt h2{ font-size: 21px; }
+	footer.footer_full .col-md-4{width: 100%; padding: 10px 10px !important}
+	.footer-col-bx{float: left !important;max-width: 100%;}
+	.book-freetrial-btn{width: 100%;}
+	.book-freetrial-btn a{width: 100%; padding-left: 5px; padding-right: 5px; text-align: center;}
+	.banner-content-full h3{font-size: 23px;}
+	.banner-content-full span{font-size: 18px; line-height: normal;}
+	.page.wmf-home .entry-content>.jsn-bootstrap3:nth-child(2) .wr-element-text{max-width: 100%;  margin-left: 0 !important; margin-right: 0 !important;}
+	.entry-content>.jsn-bootstrap3>.row.findnearest_academy h3{font-size: 20px;}
+	.entry-content>.jsn-bootstrap3>.row.findnearest_academy .section.form .row.text-center form input{width: 100% !important;}
+	.entry-content>.jsn-bootstrap3>.row.findnearest_academy .section.form .row.text-center form button{width: 100% !important; margin-left: 0 !important; margin-top: 10px !important}
+		
+	input.wpcf7-form-control.wpcf7-submit{line-height: 1;height: inherit !important;padding: 15px 15px; padding-right: 40px; white-space: normal;border-radius: 5px;}
+	.holiday-camp-full .weekly-training-fullsec-content div{font-size: 23px;}
+	h3.hedline-txt{font-size: 24px;}
+	.academic-location-box-content .btn.btn-primary a{font-size: 15px;}
+	.tetimonial-section-ful {padding: 30px 15px;}
+	.content-coachform{padding: 25px 15px 5px 15px;}
+	.heading-coachform p{clear: both;display: block;margin-left: 0;padding-left: 0;margin-top: 5px;}
+    .heading-coachform{padding: 10px 35px;}
+    .heading-coachform{padding-left: 15px;}
+    .holiday-camp-full .weekly-training-fullsec-content{padding: 20px 15px;}
+
+    .entry-content>.jsn-bootstrap3>.row.findnearest_academy .section.form .row.text-center form input{width: 70% !important}
+	.entry-content>.jsn-bootstrap3>.row.findnearest_academy .section.form .row.text-center form button{width: 30% !important; margin-top: 0 !important}
+
+	.entry-content.search-btn-cols>.jsn-bootstrap3>.row.findnearest_academy .section.form .row.text-center form input{ width: 65% !important; }
+	.entry-content.search-btn-cols>.jsn-bootstrap3>.row.findnearest_academy .section.form .row.text-center form button{ width: 35% !important; }
+
+	.pathwaytwocolimg {width: 170px;height: 170px;}
+	.howdoes-imagecenter{ width: 250px; height: 250px; }
+	.our-value-section .col-sm-4{ padding: 0 1px; }
+	.our-goals-wmfinnner .col-md-4{ width: 100% !important; margin: 10px 0; }
+	.hedlinssdad{ min-height: inherit; }
+	.footballer-policies-content h3 br{ display: none; }
+	.party-package .col-md-4{ width:100%; }
+	.party-package .col-md-4 .col-for-element-iner p{ padding-top: 0; }
+
+	.page-header-pages-image,
+	.page-header-pages{ height: 250px; }
+	.top-video-section iframe{ height: 280px !important }
+	.customform{ margin-bottom: 0; margin-left: 0; margin-right: 0 }
+	.wmf-contact-us .wr-element-heading{ padding-left: 10px; padding-right: 10px; }
+	.fullwaythisset .form-control{ max-width: 90%; }
+	.customform .wpcf7 .wpcf7-form{padding-right: 15px; padding-left: 15px;}
+	.wmle_container .wmle_item_holder.col3{ width: 100% !important; }
+	.pathwaycolnamethis{ font-size: 16px; line-height: 1; height: 67px; }
+	.page-template-default.wmf-testimonials .entry-content>div:nth-child(5) .row.wr_fullwidth .wmf-col .wr-element-testimonial.comment .slide.wr-testimonial .carousel-inner .active .wr-testimonial-item .wr-testimonial-meta{ max-width: 100%; }
+	.wr-testimonial-content p, .wr-testimonial-content{ padding-left: 10px; padding-right: 10px; }
+
+	.wmf-join-our-team .jsn-bootstrap3.container .col-sm-16{ padding-right: 0; padding-left: 0 }
+	.col-for-element-iner p{ max-width: 65%; }
+	/*.ourcoachsdevice_text{ font-size: 18px; }*/
+	.pathfullcolcontent h4{ font-size: 20px !important }
+	.right_sec .table.table-hover p{ font-size: 13px; }
+	.right_sec .btn.btn-primary{ width: 100%; }
+	.right_sec .btn.btn-primary a{ width: 100%; }
+	
+}
+
+@media screen and (max-width:400px)
+{
+	.entry-content>.jsn-bootstrap3>.row.findnearest_academy .section.form .row.text-center form input{width: 100% !important; border-radius: 5px;padding: 0 18px;}
+	.entry-content>.jsn-bootstrap3>.row.findnearest_academy .section.form .row.text-center form button{width: 100% !important; margin-top: 0 !important; border-radius:5px; text-align: left; padding-right: 40px;}
+	.entry-content>.jsn-bootstrap3>.row.findnearest_academy .section.form .row.text-center form button:after{right: 5%;}
+
+	.jsn-bootstrap3 .row.latest-news-section .rpwwt-widget ul li img {height:200px !important;width: 100% !important;float: none; margin-right: 0 !important}
+	.banner-content-full h3 span{ display: block; }
+
+	.entry-content.search-btn-cols>.jsn-bootstrap3>.row.findnearest_academy .section.form .row.text-center form input{ width: 100% !important; }
+	.entry-content.search-btn-cols>.jsn-bootstrap3>.row.findnearest_academy .section.form .row.text-center form button{ width: 100% !important; }
+	.overlaybuttonthiss{ width: 100%; top: 45%; }
+	.btn{ white-space: normal; }
+	.trusts-logos ul li{ width: 50%; }
+	.top-video-section iframe{ height: 180px !important }
+	.camp-info-top-txt .col-md-3{ width: 100%; margin: 0}
+	.camp-location{ min-height: inherit; padding-top: 0; padding-bottom: 0 }
+	ul.mid-linlk-ul li{ width: 100% !important; }
+	.discover-more-section .col-sm-4{ width: 100% !important; }
+	.discover-more ul li{ width: 100% !important;}
+	.col-for-element-iner p{ max-width: 58%; }
+
+	.leftpartslidertis{ padding:15px; }
+	.newswrap p{ line-height: 1.5; font-size: 15px; }
+	 .trusts-logos ul li:nth-of-type(4),
+.trusts-logos ul li:nth-of-type(7),
+.trusts-logos ul li:nth-of-type(10),
+.trusts-logos ul li:nth-of-type(13),
+.trusts-logos ul li:nth-of-type(16),
+.trusts-logos ul li:nth-of-type(19),
+.trusts-logos ul li:nth-of-type(22),
+.trusts-logos ul li:nth-of-type(25),
+.trusts-logos ul li:nth-of-type(28),
+.trusts-logos ul li:nth-of-type(31){ clear: none; }
+
+		 .trusts-logos ul li:nth-of-type(3),
+.trusts-logos ul li:nth-of-type(5),
+.trusts-logos ul li:nth-of-type(7),
+.trusts-logos ul li:nth-of-type(9),
+.trusts-logos ul li:nth-of-type(11),
+.trusts-logos ul li:nth-of-type(13),
+.trusts-logos ul li:nth-of-type(15),
+.trusts-logos ul li:nth-of-type(17),
+.trusts-logos ul li:nth-of-type(19),
+.trusts-logos ul li:nth-of-type(21),
+.trusts-logos ul li:nth-of-type(23),
+.trusts-logos ul li:nth-of-type(25),
+.trusts-logos ul li:nth-of-type(27){ clear: both; }
+
+}
+
+@media screen and (max-width: 320px)
+{
+	.jsn-bootstrap3 .row.latest-news-section .rpwwt-widget ul li img {height:170px !important;
+}
+
+
+button#responsive-menu-button{display: none !important;}

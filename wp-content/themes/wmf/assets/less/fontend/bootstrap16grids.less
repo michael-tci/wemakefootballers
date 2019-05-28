@@ -1,0 +1,111 @@
+/*!
+ * Bootstrap (http://getbootstrap.com)
+ * Copyright 2011-2015 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+
+// @root-path: "https://raw.githubusercontent.com/twbs/bootstrap/master/less";
+// @less-pass: "@{less-pass}/less/";
+
+// @root-path: "bootstrap16grids/";
+@root-path: "../fontend/bootstrap16grids/";
+@less-pass: "@{root-path}/less/";
+
+// Core variables
+@import "@{less-pass}variables.less";
+
+//custom variables change to 16 grids
+@font-size-base:            18px;
+
+@font-family-sans-serif:    "Open Sans", sans-serif, arial;
+@font-family-serif:         "Open Sans", "Times New Roman", Times, serif;
+//** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
+@font-family-monospace:     Menlo, Monaco, Consolas, "Courier New", monospace;
+@font-family-base:          @font-family-sans-serif;
+
+//** Number of columns in the grid.
+@grid-columns:              16;
+//** Padding between columns. Gets divided in half for the left and right.
+@grid-gutter-width:         20px;
+//** Point at which the navbar becomes uncollapsed.
+@grid-float-breakpoint:     @screen-md-min;
+//** Point at which the navbar begins collapsing.
+@grid-float-breakpoint-max: (@grid-float-breakpoint - 1);
+// Large screen / wide desktop
+@container-large-desktop:   (1160px + @grid-gutter-width);
+//** Load fonts from this directory.
+@icon-font-path:            "@{root-path}/fonts/";
+
+@padding-base-vertical:     5px;
+@padding-base-horizontal:   35px;
+
+@padding-large-vertical:    14px;
+@padding-large-horizontal:  50px;
+
+@btn-font-weight:           600;
+
+@btn-default-color:         #fff;
+@btn-default-bg:            #00aac1;
+@btn-default-border:        #00aac1;
+
+@border-radius-base:        0;
+@border-radius-large:       0;
+@border-radius-small:       0;
+
+// Allows for customizing button radius independently from global border radius
+@btn-border-radius-base:    @border-radius-base;
+@btn-border-radius-large:   @border-radius-large;
+@btn-border-radius-small:   @border-radius-small;
+
+//** Link hover decoration.
+@link-hover-decoration: none;
+
+// Core mixins
+@import "@{less-pass}mixins.less";
+
+// Reset and dependencies
+@import "@{less-pass}normalize.less";
+@import "@{less-pass}print.less";
+@import "@{less-pass}glyphicons.less";
+
+// Core CSS
+@import "@{less-pass}scaffolding.less";
+@import "@{less-pass}type.less";
+@import "@{less-pass}code.less";
+@import "@{less-pass}grid.less";
+@import "@{less-pass}tables.less";
+@import "@{less-pass}forms.less";
+@import "@{less-pass}buttons.less";
+
+// Components
+@import "@{less-pass}component-animations.less";
+@import "@{less-pass}dropdowns.less";
+@import "@{less-pass}button-groups.less";
+@import "@{less-pass}input-groups.less";
+@import "@{less-pass}navs.less";
+@import "@{less-pass}navbar.less";
+@import "@{less-pass}breadcrumbs.less";
+@import "@{less-pass}pagination.less";
+@import "@{less-pass}pager.less";
+@import "@{less-pass}labels.less";
+@import "@{less-pass}badges.less";
+@import "@{less-pass}jumbotron.less";
+@import "@{less-pass}thumbnails.less";
+@import "@{less-pass}alerts.less";
+@import "@{less-pass}progress-bars.less";
+@import "@{less-pass}media.less";
+@import "@{less-pass}list-group.less";
+@import "@{less-pass}panels.less";
+@import "@{less-pass}responsive-embed.less";
+@import "@{less-pass}wells.less";
+@import "@{less-pass}close.less";
+
+// Components w/ JavaScript
+@import "@{less-pass}modals.less";
+@import "@{less-pass}tooltip.less";
+@import "@{less-pass}popovers.less";
+@import "@{less-pass}carousel.less";
+
+// Utility classes
+@import "@{less-pass}utilities.less";
+@import "@{less-pass}responsive-utilities.less";

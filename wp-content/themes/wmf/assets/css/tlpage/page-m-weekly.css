@@ -1,0 +1,43 @@
+.copyright-text{
+        padding-top: 15px;
+    }
+    @media screen and (min-width: 1501px){
+        .social-footer {
+            float: right;
+            /* padding-top: 5px; */
+            position: absolute;
+            right: 20%;
+            top: bot;
+            bottom: 5%;
+        }
+    }
+    @media screen and (min-width: 1201px) and (max-width: 1500px){
+        .social-footer {
+            padding-right: 0;
+            position: absolute;
+            right: 15%;
+            bottom: 6%;
+        }
+    }
+    @media screen and (min-width: 992px) and (max-width: 1200px){
+        .social-footer {
+            padding-right: 0;
+            position: absolute;
+            right: 5%;
+            bottom: 5%;
+        }
+    }
+@media only screen and (max-width: 767px) {
+.datepicker-dropdown {
+    position: fixed !important;
+}
+}
+
+.dtpicker-twoButtons .dtpicker-buttonClear {background:grey !important;}
+.dtpicker-twoButtons .dtpicker-buttonSet {background:#389811 !important;}
+.dtpicker-header .dtpicker-value {color:#389811 !important;} 
+.dtpicker-header .dtpicker-close {color:#389811 !important;} 
+.dtpicker-header .dtpicker-title {color:#389811 !important;}
+.dtpicker-components .dtpicker-comp > * {color:#389811 !important;}
+.dtpicker-overlay {z-index:9999 !important;}
+body .content-coachform {max-height:688px !important;}

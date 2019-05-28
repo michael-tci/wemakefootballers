@@ -1,0 +1,34 @@
+<?php
+    /*
+    Template Name: Single Page
+    */
+    if(is_main_site()){
+        get_header();
+    }else{
+        get_header('local');
+    } 
+?>
+
+  <div id="primary" class="content-area wmf-news container-fluid">
+    <main id="main" class="site-main row" role="main">
+      		<div class="newswrap">
+          <?php
+          // Start the loop.
+          while ( have_posts() ) : the_post();
+          	
+	            get_template_part( 'content', 'page-news' );
+            // the_content();
+
+            if ( comments_open() || get_comments_number() ) :
+
+              comments_template();
+
+            endif;
+
+          endwhile;
+          ?> 
+      </div>
+    </main><!-- .site-main -->
+  </div><!-- .content-area -->
+
+<?php get_footer(); ?>
